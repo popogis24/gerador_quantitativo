@@ -1,0 +1,10 @@
+[PATH]
+#full path to the folder where the data will be stored
+base = ".\\APITESTE"
+
+[IBGE_DATA]
+municipal_boundary = "teste"
+state_boundary = "aaa"
+
+[ANALYSIS]
+buffer_distance = 10000

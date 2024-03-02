@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+ 
+[project]
+name = "refact_gerador"
+version = "0.1"
+authors = [
+  { name="Anderson", email="anderson.stolfi22@gmail.com" },
+]
+description = "Utility for searching and downloading satellite images of Sentinel 2"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas==2.1.4",
+    "geopandas==0.14.2",
+    "openpyxl==3.0.10",
+    "dynaconf==3.2.4",
+]

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: refact-gerador
+Version: 0.1
+Summary: Utility for searching and downloading satellite images of Sentinel 2
+Author-email: Anderson <anderson.stolfi22@gmail.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+<<<<<<< HEAD
+# powerline_calculator
+=======
+notes
+
+
+- testar o round adicionado nas classes do geometric analysis
+>>>>>>> novo-branch

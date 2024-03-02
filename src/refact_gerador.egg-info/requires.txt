@@ -1,0 +1,4 @@
+pandas==2.1.4
+geopandas==0.14.2
+openpyxl==3.0.10
+dynaconf==3.2.4
